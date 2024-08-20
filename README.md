@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Opeoluwa Ayodeji</h1>
-<h3 align="center">A Frontend Engineer from Nigeria</h3>
+<h3 align="center">A Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopeoluwa&label=Profile%20views&color=0e75b6&style=flat" alt="devopeoluwa" /> </p>
 

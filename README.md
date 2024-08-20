@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devopeoluwa" alt="devopeoluwa" /></a> </p>
 
-- 🔭 I’m currently working on **My new Portfolio**
+- 🔭 I’m currently working on **External Advanced Projects**
 
-- 🌱 I’m currently learning **Angular, Gulp,DSA**
+- 🌱 I’m currently learning **Sveltkit**
 
 - 👨‍💻 All of my projects are available at [https://devopeoluwa.github.io/portfolio](https://devopeoluwa.github.io/portfolio)
 

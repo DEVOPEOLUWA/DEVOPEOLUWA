@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Sveltkit**
 
-- 👨‍💻 All of my projects are available at [https://devopeoluwa.github.io/portfolio](https://devopeoluwa.github.io/portfolio)
-
 - 💬 Ask me about **Angular/Typescript,Javascript, UI development**
 
 - 📫 How to reach me **ayodejiope13@gmail.com**
